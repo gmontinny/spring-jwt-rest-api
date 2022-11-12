@@ -11,7 +11,7 @@ Crie autenticação de APIs REST simples por JWT e gerencie o usuário no banco 
 - Outras Bibliotecas
   - mysql-connector-java
   - jjwt - json web token
-  - jakarta.xml.bind-api - in JAVA 11 `java.xml.bind (JAXB)` has been removed.
+  - jakarta.xml.bind-api - in JAVA 11 `java.xml.bind (JAXB)` pode ser removido.
 
 
 # APIs
