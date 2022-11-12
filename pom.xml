@@ -8,7 +8,7 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.winitonc.springboot</groupId>
+	<groupId>com.gmontinny.springboot</groupId>
 	<artifactId>springboot2-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot2-jwt</name>
