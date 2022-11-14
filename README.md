@@ -21,7 +21,7 @@ API para cadastrar usuário. Uma vez registrado, use a API `/authenticate` para 
 Exemplo request:
 ```
 curl -X POST 'http://localhost:8080/register' -H 'Content-Type: application/json' --data-raw '{
-    "username": "winitonc",
+    "username": "gmontinny",
     "password": "password"
 }'
 ```
