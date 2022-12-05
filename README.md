@@ -10,7 +10,7 @@ Crie autenticação de APIs REST simples por JWT e gerencie o usuário no banco 
   - spring-boot-starter-data-jpa
 - Outras Bibliotecas
   - mysql-connector-java
-  - jjwt - json web token
+  - jwt - json web token
   - jakarta.xml.bind-api - in JAVA 11 `java.xml.bind (JAXB)` pode ser removido.
 
 
